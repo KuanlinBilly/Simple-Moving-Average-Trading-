@@ -27,7 +27,7 @@ g++ -o moving_average_crossover moving_average_crossover.cpp
 
 2. The program will output buy and sell signals based on the example price data.
 
-## Example Output
+### Example Output
 * Buy at 100 (day 6)
 * Sell at 97 (day 8)
 * Buy at 96 (day 12)
