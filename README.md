@@ -1,1 +1,1 @@
-# Simple-Moving-Average-Trading-with-C-
+# Simple-Moving-Average-Trading-with-C++
